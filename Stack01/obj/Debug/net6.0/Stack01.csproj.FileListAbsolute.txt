@@ -1,0 +1,15 @@
+C:\Development\scaler\Stack01\bin\Debug\net6.0\Stack01.exe
+C:\Development\scaler\Stack01\bin\Debug\net6.0\Stack01.deps.json
+C:\Development\scaler\Stack01\bin\Debug\net6.0\Stack01.runtimeconfig.json
+C:\Development\scaler\Stack01\bin\Debug\net6.0\Stack01.dll
+C:\Development\scaler\Stack01\bin\Debug\net6.0\Stack01.pdb
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.csproj.AssemblyReference.cache
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.AssemblyInfoInputs.cache
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.AssemblyInfo.cs
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.csproj.CoreCompileInputs.cache
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.dll
+C:\Development\scaler\Stack01\obj\Debug\net6.0\refint\Stack01.dll
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.pdb
+C:\Development\scaler\Stack01\obj\Debug\net6.0\Stack01.genruntimeconfig.cache
+C:\Development\scaler\Stack01\obj\Debug\net6.0\ref\Stack01.dll
