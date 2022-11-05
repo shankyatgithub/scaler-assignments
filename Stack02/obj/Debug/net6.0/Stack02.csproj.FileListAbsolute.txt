@@ -1,0 +1,15 @@
+C:\Development\scaler\Stack02\bin\Debug\net6.0\Stack02.exe
+C:\Development\scaler\Stack02\bin\Debug\net6.0\Stack02.deps.json
+C:\Development\scaler\Stack02\bin\Debug\net6.0\Stack02.runtimeconfig.json
+C:\Development\scaler\Stack02\bin\Debug\net6.0\Stack02.dll
+C:\Development\scaler\Stack02\bin\Debug\net6.0\Stack02.pdb
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.csproj.AssemblyReference.cache
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.AssemblyInfoInputs.cache
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.AssemblyInfo.cs
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.csproj.CoreCompileInputs.cache
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.dll
+C:\Development\scaler\Stack02\obj\Debug\net6.0\refint\Stack02.dll
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.pdb
+C:\Development\scaler\Stack02\obj\Debug\net6.0\Stack02.genruntimeconfig.cache
+C:\Development\scaler\Stack02\obj\Debug\net6.0\ref\Stack02.dll
