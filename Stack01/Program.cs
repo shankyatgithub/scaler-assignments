@@ -5,7 +5,10 @@ Console.WriteLine("Hello, World!");
 //Console.WriteLine(BalancedParanthesis(""));
 //Console.WriteLine(DoubleCharacterTrouble("abccbac"));
 //Console.WriteLine(EvaluateExpression(new List<string>() { "2", "1", "+", "3", "*" }));
-Console.WriteLine(EvaluateExpression(new List<string>() { "4", "13", "5", "/", "+" }));
+//Console.WriteLine(EvaluateExpression(new List<string>() { "4", "13", "5", "/", "+" }));
+
+
+
 
 int BalancedParanthesis(string A)
 {
@@ -139,3 +142,55 @@ int EvaluateExpression(List<string> A)
     }
     return stk.Pop();
 }
+
+//#5 Simplify Directory Path
+//Console.WriteLine(SimplifyDirectoryPath("/a/b/c"));
+//Console.WriteLine(SimplifyDirectoryPath("/../"));
+//Console.WriteLine(SimplifyDirectoryPath("/./.././ykt/aaa"));
+
+string SimplifyDirectoryPath(string A)
+{
+    StringBuilder returnValue = new StringBuilder();
+    string tempA = A.Replace("//", "/");
+    string[] tempArray = A.Split('/');
+    Stack<string> stk = new Stack<string>();
+    foreach (var a in tempArray)
+    {
+        if (a != "." && a != ".." && a != "")
+        {
+            stk.Push(a);
+        }
+        else if (a == "..")
+        {
+            if (stk.Count > 0)
+                stk.Pop();
+        }
+    }
+
+    if (stk.Count > 0)
+    {
+        foreach (var b in stk.Reverse())
+        {
+            returnValue.Append("/" + b);
+        }
+    }
+    else
+    {
+        returnValue.Append("/");
+    }
+
+
+
+    return returnValue.ToString();
+}
+
+//#4 Sort stack using another stack
+List<int> SortStackUsingAnotherStack(List<int> A)
+{
+    List<int> returnValue = new List<int>();
+
+        
+
+    return returnValue;
+}
+

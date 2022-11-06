@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
 
 // Nearest smaller element - index less than i
 List<int> ans = NearestSmallerElement(new List<int> { 4, 5, 2, 10, 8 });
-List<int> ans = NearestSmallerElementOptimized(new List<int> { 3, 2, 1 });
+List<int> ans2 = NearestSmallerElementOptimized(new List<int> { 3, 2, 1 });
 foreach (int a in ans)
 {
     Console.WriteLine(a);
